@@ -1,0 +1,11 @@
+{
+  "name": "mops",
+  "owner": { "name": "se" },
+  "plugins": [
+    {
+      "name": "hickey-style",
+      "source": "./plugins/hickey-style",
+      "description": "Write software content in Rich Hickey's style and intellectual framework."
+    }
+  ]
+}

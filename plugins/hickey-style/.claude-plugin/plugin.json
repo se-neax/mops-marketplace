@@ -1,0 +1,6 @@
+{
+  "name": "hickey-style",
+  "version": "0.1.0",
+  "description": "Write software content (PR descriptions, design docs, reviews, commits, critiques) in Rich Hickey's rhetorical style and intellectual framework.",
+  "author": { "name": "se" }
+}
